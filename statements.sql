@@ -1,7 +1,7 @@
 /* Relación tipo 1:1 */
 -- PASO 1
 -- CREO UN SCHEMA 
-CREATE SCHEMA 'test2';
+CREATE SCHEMA test2;
 
 CREATE TABLE test2.usuarios (
     id_usuario INT AUTO_INCREMENT PRIMARY KEY,
